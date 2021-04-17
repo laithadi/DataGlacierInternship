@@ -1,0 +1,11 @@
+
+path: stocks.csv
+delimiter: ","
+num_columns: 6
+columns: 
+    - exchangecountry
+    - symbol
+    - companyname
+    - returnonequity
+    - priceearningsratio
+    - dividendyield
